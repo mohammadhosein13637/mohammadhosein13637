@@ -1,5 +1,5 @@
 # 💫 About Me:
-im currently working on three js webGL<br>i work as a fullstack web and mobile developer at Alborz . <br>A person who always likes learning and upgrading himself according to the latest technological development.<br><br>Let me sneakily say that I like security :)
+im currently working on my Startup and living with cofee. <br>A person who always likes learning and upgrading himself according to the latest technological development.<br><br>Let me sneakily say that I like security :)
 
 
 ## 🌐 Socials:
